@@ -1,27 +1,15 @@
-[
-    {
-        "id":"house_1", 
-        "condition":
-            [
-                {
-                    "type":"temperature",
-                    "segment":{"Less than 18":20, "18-25":30 , "Greater than 25":10},
-                    "unit":"day",
-                    "space":"livingroom"
-                },
-                {
-                    "type":"temperature",
-                    "segment":{"Less Lan 18":20, "18-25":30 , "Greater than 25":10},
-                    "unit":"day",
-                    "space":"hallway"
-                },
-                {
-                    "type":"temperature",
-                    "segment":{"Less Lan 18":20, "18-25":30 , "Greater than 25":10},
-                    "unit":"day",
-                    "space":"bedroom"
-                },
-
-]
+{
+    "firstName": "Rack",
+    "lastName": "Jackon",
+    "gender": "man",
+    "age": 24,
+    "address": {
+        "streetAddress": "126",
+        "city": "San Jone",
+        "state": "CA",
+        "postalCode": "394221"
     },
-]
+    "phoneNumbers": [
+        { "type": "home", "number": "7383627627" }
+    ]
+}
