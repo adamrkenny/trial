@@ -1,5 +1,5 @@
 {
-    "firstName": "Darrow",
-    "lastName": "Yunham",
-    "decision": 10
+    "nationality": ["American", "British", "American"],
+    "group": ["M", "K", "H"],
+    "decision": [10, 5, 0]
 }
