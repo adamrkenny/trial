@@ -1,19 +1,15 @@
 [{ 
     "id" : 1,
 "nationality": "American",
-"group": "M",
-"decision": 10
+"dg_in_self": 10,
+"dg_out_self": 10,
+"dg_in_out": 10,    
 },
 { 
     "id" : 2,
 "nationality": "British",
-"group": "K",
-"decision": 5
-},
-{
-  "id" : 3,
-"nationality": "American",
-"group": "H",
-"decision": 0
+"dg_in_self": 10,
+"dg_out_self": 10,
+"dg_in_out": 10,    
 }
 ]
