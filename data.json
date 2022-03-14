@@ -1,5 +1,19 @@
 {
-    "nationality": ["American", "British", "American"],
-    "group": ["M", "K", "H"],
-    "decision": [10, 5, 0]
+"player": [
+{
+"nationality": "American",
+"group": "M",
+"decision": 10
+},
+{
+"nationality": "British",
+"group": "K",
+"decision": 5
+},
+{
+"nationality": "American",
+"group": "H",
+"decision": 0
+}
+]
 }
