@@ -1,15 +1,92 @@
-[{ 
-    "id" : 1,
-"nationality": "American",
-"dg_in_self": 10,
-"dg_out_self": 10,
-"dg_in_out": 10
-},
-{ 
-    "id" : 2,
-"nationality": "British",
-"dg_in_self": 10,
-"dg_out_self": 10,
-"dg_in_out": 10    
-}
-]
+[
+  {
+    "id": 1,
+    "type": "national",
+    "nationality": "american",
+    "minimal": "NA",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 2,
+    "type": "national",
+    "nationality": "non-american",
+    "minimal": "NA",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 3,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "J",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 4,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "H",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 5,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "M",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 6,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "K",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 7,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "L",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 8,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "N",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 9,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "S",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  },
+  {
+    "id": 10,
+    "type": "minimal",
+    "nationality": "NA",
+    "minimal": "P",
+    "dg_in_self": 10,
+    "dg_out_self": 10,
+    "dg_in_out": 10
+  }
+] 
