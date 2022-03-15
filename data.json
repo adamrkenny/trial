@@ -1,82 +1,12 @@
 [
   {
-    "id": 1,
-    "type": "national",
-    "group": "american",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 2,
-    "type": "national",
-    "group": "non-american",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 3,
-    "type": "minimal",
-    "group": "J",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 4,
-    "type": "minimal",
-    "group": "H",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 5,
-    "type": "minimal",
-    "group": "M",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 6,
-    "type": "minimal",
-    "group": "K",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 7,
-    "type": "minimal",
-    "group": "L",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 8,
-    "type": "minimal",
-    "group": "N",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 9,
-    "type": "minimal",
-    "group": "S",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
-  },
-  {
-    "id": 10,
-    "type": "minimal",
-    "group": "P",
-    "dg_in_self": 10,
-    "dg_out_self": 10,
-    "dg_in_out": 10
+    "minimal": "H",
+    "nationality": "English (US)",
+    "dg_min_in_self": 10,
+    "dg_min_out_self": 10,
+    "dg_min_in_out": 10,
+    "dg_nat_in_self": 10,
+    "dg_nat_out_self": 10,
+    "dg_nat_in_out": 10
   }
 ] 
