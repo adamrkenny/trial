@@ -2,8 +2,7 @@
   {
     "id": 1,
     "type": "national",
-    "nationality": "american",
-    "minimal": "NA",
+    "group": "american",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -11,8 +10,7 @@
   {
     "id": 2,
     "type": "national",
-    "nationality": "non-american",
-    "minimal": "NA",
+    "group": "non-american",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -20,8 +18,7 @@
   {
     "id": 3,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "J",
+    "group": "J",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -29,8 +26,7 @@
   {
     "id": 4,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "H",
+    "group": "H",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -38,8 +34,7 @@
   {
     "id": 5,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "M",
+    "group": "M",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -47,8 +42,7 @@
   {
     "id": 6,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "K",
+    "group": "K",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -56,8 +50,7 @@
   {
     "id": 7,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "L",
+    "group": "L",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -65,8 +58,7 @@
   {
     "id": 8,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "N",
+    "group": "N",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -74,8 +66,7 @@
   {
     "id": 9,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "S",
+    "group": "S",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
@@ -83,8 +74,7 @@
   {
     "id": 10,
     "type": "minimal",
-    "nationality": "NA",
-    "minimal": "P",
+    "group": "P",
     "dg_in_self": 10,
     "dg_out_self": 10,
     "dg_in_out": 10
